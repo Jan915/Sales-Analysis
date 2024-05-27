@@ -1,0 +1,43 @@
+Objective
+To create a structured framework for analyzing sales data, identifying trends, and generating actionable insights that can inform business strategies and decision-making processes.
+
+Key Components
+Entities
+Relationships
+Attributes
+Processes
+1. Entities and Attributes
+
+Sales
+
+Sales_ID: Unique identifier for each sale.
+Date: The date the sale occurred.
+Product_ID: Identifier for the product sold.
+Customer_ID: Identifier for the customer who made the purchase.
+Region: Geographic area where the sale took place.
+Sales_Amount: Monetary value of the sale.
+Quantity_Sold: Number of units sold.
+Marketing_Spend_ID: Identifier for the marketing campaign associated with the sale.
+
+Products
+
+Product_ID: Unique identifier for each product.
+Product_Name: Name of the product.
+Product_Category: Category to which the product belongs.
+Price: Sale price of the product.
+
+Customers
+
+Customer_ID: Unique identifier for each customer.
+Customer_Name: Name of the customer.
+Customer_Segment: Segment classification of the customer (e.g., regular, premium).
+Demographics: Information such as age, gender, and location.
+
+Marketing Campaigns
+
+Marketing_Spend_ID: Unique identifier for each marketing campaign.
+Campaign_Name: Name of the marketing campaign.
+Start_Date: Start date of the campaign.
+End_Date: End date of the campaign.
+Total_Spend: Total amount spent on the campaign.
+Channel: Marketing channel used (e.g., online, in-store).
